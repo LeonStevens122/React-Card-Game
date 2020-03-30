@@ -1,0 +1,8 @@
+  <Container>
+                        <Row>
+                            <Col><img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/82473/q-od.jpg' /></Col>
+                            <Col><img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/82473/q-od.jpg' /></Col>
+                            <Col><img src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/82473/q-od.jpg' /></Col>
+                        </Row>
+                        
+                    </Container> 

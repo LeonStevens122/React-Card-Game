@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    
+    background-color: #004d00;
+    width: 660px;
+    margin: 30px auto;
+}
+
+html, #root {
+    background-color: #004d00;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
